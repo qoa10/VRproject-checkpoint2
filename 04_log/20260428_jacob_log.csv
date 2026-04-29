@@ -1,0 +1,4 @@
+trial_index,hints_enabled,marker_used_count,return_time_sec,trial_complete
+1,FALSE,1,125.025,TRUE
+2,TRUE,0,68.286,TRUE
+3,FALSE,9,37.805,TRUE
